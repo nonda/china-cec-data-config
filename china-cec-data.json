@@ -1,0 +1,61 @@
+{
+	"license_key": "Test",
+	"news": [{
+			"img": "https://www.china-cec.com/images/news/12.jpg",
+			"link": "https://mp.weixin.qq.com/s/mGlhDYC8SV76r0jPrtcNPQ",
+			"date": "2023年3月7日",
+			"title":"为精彩赛事持续赋能 冠德石油助力CEC新赛季",
+			"align":"1"
+		},{
+			"img": "https://www.china-cec.com/images/news/11.jpg",
+			"link": "https://mp.weixin.qq.com/s/7kA5gZSk1joLVg4p6cEKaQ",
+			"date": "2023年3月3日",
+			"title":"新赛季 新面貌 2023CEC中国汽车耐力锦标赛蓄势待发！",
+			"align":"0"
+		},{
+			"img": "https://www.china-cec.com/images/news/10.jpg",
+			"link": "https://mp.weixin.qq.com/s/zR2sSYApOm808Mc2tVdKQA",
+			"date": "2023年3月2日",
+			"title":"国际赛场 | 迎接百年庆典 2023勒芒24小时耐力赛参赛名单正式揭晓",
+			"align":"0"
+		},
+		{
+			"img": "https://www.china-cec.com/images/news/09.jpg",
+			"link": "https://mp.weixin.qq.com/s/0QFNHuY3SKexiw14S42qyQ",
+			"date": "2023年2月17日",
+			"title":"强强联合 两大顶级制动品牌AP Racing、FERODO Racing携手CEC新赛季",
+			"align":"0"
+		},
+		{
+			"img": "https://www.china-cec.com/images/news/08.jpg",
+			"link": "https://mp.weixin.qq.com/s/C0kF8wdP-NPJDdcE4leaBA",
+			"date": "2023年2月9日",
+			"title":"冠军品质加持 | 世界知名避震品牌KW加入CEC大家庭 ",
+			"align":"0"
+		},{
+			"img": "https://www.china-cec.com/images/news/07.jpg",
+			"link": "https://mp.weixin.qq.com/s/1ClMBZVQHZOyMBVAQ910Gg",
+			"date": "2023年2月8日",
+			"title":"国际赛场 | 全景山再迎激战 梅赛德斯-AMG成功卫冕巴瑟斯特12小时 ",
+			"align":"0"
+		},{
+			"img": "https://www.china-cec.com/images/news/01.jpg",
+			"link": "https://mp.weixin.qq.com/s/0tmKyncautgdbb7UHZJq-w",
+			"date": "2023年01月11日",
+			"title":"新年伊始竞速不停——世界耐力赛场近期都有哪些看点？ ",
+			"align":"0"
+		},{
+			"img": "https://www.china-cec.com/images/news/03.jpg",
+			"link": "https://mp.weixin.qq.com/s/IOlnips41kiAfbLbyB8vNQ",
+			"date": "2023年01月11日",
+			"title":"签约！一口气引进六个赛事！天府国际赛道赛事引进暨战略合作签约仪式在平潭举行",
+			"align":"0"
+		},{
+			"img": "https://www.china-cec.com/images/news/02.jpg",
+			"link": "https://mp.weixin.qq.com/s/2z_DFL87Zqos7vy2RxfaYw",
+			"date": "2022年12月11日",
+			"title":"CEC与您携手共进，勇攀高峰",
+			"align":"1"
+		}
+	]
+}
