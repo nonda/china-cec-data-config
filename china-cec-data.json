@@ -1,6 +1,13 @@
 {
 	"license_key": "Test",
 	"news": [{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/%E8%A7%86%E9%A2%91%20%7C%20%E5%BC%80%E8%B5%9B%E5%9C%A8%E5%8D%B3%EF%BC%8CCEC5%E6%9C%88%E6%9D%A5%E8%A2%AD%EF%BC%812023%E5%B9%B43%E6%9C%8810%E6%97%A5.jpg",
+			"link": "https://mp.weixin.qq.com/s/nga3JPRGuhUo7qh7CStEGA",
+			"date": "2023年3月10日",
+			"title":"视频 | 开赛在即，CEC5月来袭！",
+			"align":"1"
+		},
+		{
 			"img": "https://www.china-cec.com/images/news/12.jpg",
 			"link": "https://mp.weixin.qq.com/s/mGlhDYC8SV76r0jPrtcNPQ",
 			"date": "2023年3月7日",
