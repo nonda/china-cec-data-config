@@ -1,6 +1,69 @@
 {
 	"license_key": "Test",
 	"news": [{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/1.jpeg",
+			"link": "https://mp.weixin.qq.com/s/xHUJbyyR15ExXi4471fK2g",
+			"date": "2023年4月13日",
+			"title":"全速出发 326 Racing Team踏上CEC卫冕征途",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/2.jpeg",
+			"link": "https://mp.weixin.qq.com/s/o3nQ8QEd6kBres30-Nh1Lg",
+			"date": "2023年4月11日",
+			"title":"CEC新赛季揭幕在即 尤加石化燃擎助力！",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/3.jpeg",
+			"link": "https://mp.weixin.qq.com/s/Jk6t5m-37S16IRnMq47tvg",
+			"date": "2023年4月10日",
+			"title":"展翼高飞 北京Wings Racing翼宿⻋队全新面貌迎战2023 CEC",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/4.jpeg",
+			"link": "https://mp.weixin.qq.com/s/twZDHM6TW3GFVoSrQXRRyw",
+			"date": "2023年4月7日",
+			"title":"逐梦荣耀 DRT瀚霆赛车四车出征CEC",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/5.jpeg",
+			"link": "https://mp.weixin.qq.com/s/4hQqowgKc6ItFyW3iALE8w",
+			"date": "2023年4月6日",
+			"title":"三线作战 GYT Racing车队兵强马壮再战CEC",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/6.jpeg",
+			"link": "https://mp.weixin.qq.com/s/KPdQQ_fp2GCGPRJL1BpVwg",
+			"date": "2023年4月4日",
+			"title":"强阵出击 CEC新赛季极点赛车双箭头力争荣誉",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/7.jpeg",
+			"link": "https://mp.weixin.qq.com/s/XnTaHLXOSMK6wN_L5wkpKA",
+			"date": "2023年4月3日",
+			"title":"全新升级 乐趣加倍 2023赛季CEC规则解读",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/8.jpeg",
+			"link": "https://mp.weixin.qq.com/s/pNNNrMiUeUDniIGv4v0n7g",
+			"date": "2023年3月31日",
+			"title":"冠军之选 中国优秀轮圈品牌ARTKA为CEC新赛季助力",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/9.png",
+			"link": "https://mp.weixin.qq.com/s/0ojNthZufRrod2ZBNOS84g",
+			"date": "2023年3月30日",
+			"title":"点燃竞速激情 CEC携手NGK开启新赛季",
+			"align":"1"
+		},
+		{
 			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/cec-31402.jpg",
 			"link": "https://mp.weixin.qq.com/s/SILiP2fjNBzhx6FdveEW_Q",
 			"date": "2023年3月14日",
