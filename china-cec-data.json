@@ -1,6 +1,18 @@
 {
 	"license_key": "Test",
 	"news": [{
+			"img": "https://mmbiz.qpic.cn/mmbiz_jpg/3v5gISdK7UBwOBfXxrDT7t1bfFVzMaHlQPBywegtkTiar6gHH9oAiaibYBhkGBaWfiaZ307EBiam0JKlfjoht665iaYg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1",
+			"link": "https://mp.weixin.qq.com/s/SILiP2fjNBzhx6FdveEW_Q",
+			"date": "2023年3月14日",
+			"title":"叮！您订购的新车已经到货，请查收！",
+			"align":"1"
+		},{
+			"img": "https://mmbiz.qpic.cn/mmbiz_jpg/3v5gISdK7UB9Vzmzkfib6bVnia8movFJ83lBuooeMBTt6oZI1DSaGKYvpoBrQ9XvjrwibmYOmWe7zklPg2C1NJhBQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1",
+			"link": "https://mp.weixin.qq.com/s/O7tyaSsNGoHckb4T1kJE8g",
+			"date": "2023年3月14日",
+			"title":"互联网赋能中国赛车 CEC新赛季携手51GT3赛车圈",
+			"align":"1"
+		},{
 			"img": "https://mmbiz.qpic.cn/mmbiz_png/3v5gISdK7UAuSUstFcrDjfeZWkp9z2BUq3XrvJLDy2KaPQp1pjJXpbTgIOawG2qUibt0CUYZBaDsJgAg2PDrMWg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1",
 			"link": "https://mp.weixin.qq.com/s/d2bLd0KAYFpPke3MoHMRUQ",
 			"date": "2023年3月13日",
