@@ -1,6 +1,41 @@
 {
 	"license_key": "Test",
 	"news": [{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/cec-230424001.jpeg",
+			"link": "https://mp.weixin.qq.com/s/tN-nMzzBkUuFcUlY1HsSdQ",
+			"date": "2023年4月23日",
+			"title":"全力以赴 FORCE RACING原力车队为2023 CEC胜利而战",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/cec-230424002.jpeg",
+			"link": "https://mp.weixin.qq.com/s/zjGW7UJGpLTsFKoFno2D2A",
+			"date": "2023年4月21日",
+			"title":"再逐荣誉 领克性能车俱乐部厉兵秣马出征2023 CEC",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/cec-230424003.jpeg",
+			"link": "https://mp.weixin.qq.com/s/_sAqV9C7I5quYxIlvXxW4g",
+			"date": "2023年4月19日",
+			"title":"May Day 一起 嗨Date",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/cec-230424004.jpeg",
+			"link": "https://mp.weixin.qq.com/s/vmDHW6IpYJ_CkTu3gyn_ew",
+			"date": "2023年4月18日",
+			"title":"展望耐力赛场扬威！威立车队黄金阵容出击2023CEC",
+			"align":"1"
+		},
+		{
+			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/cec-230424005.jpeg",
+			"link": "https://mp.weixin.qq.com/s/4JrKXAIDF-Mkq6ZOx20UGQ",
+			"date": "2023年4月17日",
+			"title":"成长之路结伴同行 CEC牵手高端天然矿泉水品牌臻缘华",
+			"align":"1"
+		},
+		{
 			"img": "https://china-cec.oss-cn-shanghai.aliyuncs.com/cec-230415.png",
 			"link": "https://mp.weixin.qq.com/s/vsIX2pxFx6sEQnM8TFiGsw",
 			"date": "2023年4月15日",
